@@ -1,4 +1,12 @@
 # laco-iteracoes-JS
+
+# Índice
+[Descrição](#descriçao)  
+[Como Funciona](#Como-Funciona)   
+[Imagens do projeto](#imagem-do-projeto)  
+[Explicação do Código](#explicação-do-código)
+[Ferramentas utilizadas](#ferramentas-ultilizadas)  
+[Referências](#referências)
  
  ## Descrição
 Este é um script JavaScript que conta quantas opções estão selecionadas em um elemento `<select>` do HTML e exibe o total em um alerta.
@@ -6,7 +14,7 @@ Este é um script JavaScript que conta quantas opções estão selecionadas em u
 ## Como Funciona
 O script percorre todas as opções dentro do elemento `<select>`, verifica quais estão selecionadas e conta quantas são selecionadas. Ele então exibe um alerta com o total de opções selecionadas.
 
-## Gif
+## Imagem do projeto
 ![Gravando-2024-05-16-095921](https://github.com/juliadutraves/laco-iteracoes-JS/assets/140835384/4706274a-18b8-4343-9763-be6c00af9cf9)
 
  
